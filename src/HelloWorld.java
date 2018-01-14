@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("GitHubTest");
 		System.out.println("GitHubFromMacbook!");
 		System.out.println("GitHubFromThinkpad!");
+		System.out.println("Big bang!");
 
 	}
 
